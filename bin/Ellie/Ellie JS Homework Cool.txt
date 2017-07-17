@@ -1,0 +1,23 @@
+Homework #2
+
+1) Go to the following url:
+http://www.tie3.mypalmbeachpost.com/news/entertainment/sushi-impresses-at-juno-beachs-china-tokyo/nXspN
+
+2) Sign in
+email: cmgtester1@coxinc.com
+password: cmgtest3r
+(Make sure you have logged in)
+
+3) Locate the floating menu “In This Section” on the right side of the article.
+
+4) Scroll the page down, and check that the floating menu is now at the bottom of the article
+
+5) Scroll the page up, and ensure the floating menu is at the top of the article (it will be offset from the top by the ad height + 20 pixels)
+
+
+Hints:
+If you are using dom to locate an element, remember that most get* functions will return an array of elements, only getElementById returns an element.
+To find the parent of an element use element.parentNode
+To figure out the height of any element use element.offsetHeight
+
+Have fun ;)
